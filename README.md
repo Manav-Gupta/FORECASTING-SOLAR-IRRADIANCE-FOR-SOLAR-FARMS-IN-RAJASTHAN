@@ -1,4 +1,4 @@
-# Solar-Irradiance-Bio-Inspired
+# FORECASTING SOLAR IRRADIANCE FOR SOLAR FARMS IN RAJASTHAN
 Forecasting Solar Irradiance using LSTM and optimizing parameters using Bio-inspired algorithms
 
 This project has employed LSTM for forecasting hourly solar irradiance on the dataset obtained from NREL website. Bio-Inspired algorithms have been used on this endeavour to optimize the results of forecasting and to find the best fitted technique. Python was used for the analysis using keras for deep learning.
